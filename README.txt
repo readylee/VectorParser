@@ -3,7 +3,7 @@
 
 To run the program (from the command line):
 
-USAGE: python RLJpyParser.py [parseableStreamsFilePath]
+USAGE: python VectorParser.py [parseableStreamsFilePath]
 parseableStreamsFilePath = path to file containing streams to parse, line by line; 
 
 If there is no argument passed when running the program, then script will wait for user
